@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Good day ! I'm SangHoon Park who develop groupware from The Dongwha Enterprise, Republic of korea.
+
 <!--
 **babysean/babysean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
