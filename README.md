@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-Good day ! I'm SangHoon Park who develops groupware from The Dongwha Enterprise, Republic of korea.
+Good day ! I'm SangHoon Park who backend junior developer from Focus Media Korea, Republic of korea.
 
 If you want to contact me, please send me a message ✉️
 
 ### 🖥 Career
-🏢 The Dongwha Enterprise (2017.12 ~ current)
+🏢 The Dongwha Enterprise (2017.12 ~ 2022.06)
+🏢 Focus Media Korea (2022.06 ~ current)
 
 <!--
 **babysean/babysean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
