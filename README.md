@@ -5,9 +5,9 @@
 저에게 연락이 필요하시면 메시지 보내주세요 ✉️
 
 ### 🖥 경력
-🏢 Focus Media Korea (2022.06 ~ current)
+🏢 포커스미디어코리아 - IT본부 SDE챕터 (2022.06 ~ 현재)
 
-🏢 The Dongwha Enterprise (2017.12 ~ 2022.06)
+🏢 동화기업 - 그룹웨어 개발자 (2017.12 ~ 2022.06)
 
 <!--
 **babysean/babysean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
