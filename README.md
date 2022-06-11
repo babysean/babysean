@@ -1,13 +1,13 @@
-### Hi there 👋
+### 안녕하세요 👋
 
-Good day ! I'm SangHoon Park who backend junior developer from Focus Media Korea, Republic of korea.
+저는 포커스미디어코리아에서 백엔드 개발자로 근무하고 있는 박상훈입니다 😄
 
-If you want to contact me, please send me a message ✉️
+저에게 연락이 필요하시면 메시지 보내주세요 ✉️
 
-### 🖥 Career
-🏢 The Dongwha Enterprise (2017.12 ~ 2022.06)
-
+### 🖥 경력
 🏢 Focus Media Korea (2022.06 ~ current)
+
+🏢 The Dongwha Enterprise (2017.12 ~ 2022.06)
 
 <!--
 **babysean/babysean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
