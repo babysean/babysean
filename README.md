@@ -6,6 +6,7 @@ If you want to contact me, please send me a message ✉️
 
 ### 🖥 Career
 🏢 The Dongwha Enterprise (2017.12 ~ 2022.06)
+
 🏢 Focus Media Korea (2022.06 ~ current)
 
 <!--
