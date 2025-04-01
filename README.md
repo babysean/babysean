@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Babysean's%20Github&desc=Backend%20Developer&descAlignY=65&descAlign=80&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Babysean's%20Github&desc=Web%20x%20Backend%20Developer&descAlignY=65&descAlign=80&fontSize=90)
 
 저는 동화기업에서 백엔드 개발자로 근무하고 있는 박상훈입니다 😄
 
