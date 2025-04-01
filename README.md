@@ -72,9 +72,9 @@
 <br>
 
 ## 🤙🏼 Contact
-<a href="https://babysean.notion.site/a31fd35d16494371b07c3e2cb4f159dd?pvs=4">
+<a href="https://babysean.notion.site/a31fd35d16494371b07c3e2cb4f159dd?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
-<a href="mailto:tkdgns7070@gmail.com">
+<a href="mailto:tkdgns7070@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/tkdgns7070@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
